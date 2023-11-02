@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#141414</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_secondary">#212121</color>
+    <color name="background_primary">#FF000000</color>
+    <color name="font">#F5F5F5</color>
+    <color name="background_topbar">#263238</color>
+    <color name="font_topbar">#EEEEEE</color>
+</resources>

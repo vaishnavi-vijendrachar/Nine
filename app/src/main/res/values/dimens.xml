@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="tablet_image_width">160dp</dimen>
+    <dimen name="phone_image_width">120dp</dimen>
+    <dimen name="padding_0_25x">2dp</dimen>
+    <dimen name="padding_0_5x">4dp</dimen>
+    <dimen name="padding_1x">8dp</dimen>
+    <dimen name="padding_3x">24dp</dimen>
+</resources>

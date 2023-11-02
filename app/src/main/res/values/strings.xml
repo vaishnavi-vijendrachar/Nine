@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nine</string>
+    <string name="error_message_action">Please try again later!</string>
+    <string name="error_message_warning">Oops, something went wrong!</string>
+    <string name="intent_label_url">url</string>
+    <string name="content_description_thumbnail">thumbnail</string>
+    <string name="content_description_home">home</string>
+</resources>
